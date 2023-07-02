@@ -1,6 +1,7 @@
 import { extendTheme } from "@chakra-ui/react";
 import { ButtonStyles as Button } from "./components/ButtonStyles";
 import { InputStyles as Input } from "./components/InputStyles";
+import { TextStyles as Text, LinkStyles as Link } from './components/TextStyles';
 import { styles } from "./global";
 
 export const myCustomTheme = extendTheme ({
@@ -20,9 +21,27 @@ export const myCustomTheme = extendTheme ({
     accent: '#040404',
     onAccent: '#A8A8A8',
 
+    primaryText: '#CCCCCC',
+    secondaryText: '#848484',
+    accentText: '#555555',
+
+    warning: '#685d24',
+    danger: '#681c1c',
+
+    star: '#FFD700',
+
   },
   components: {
     Button,
     Input,
-  }
+    Text,
+    Link,
+  },
+  breakpoints: {
+    sm: "30em",
+    msm: "34em",
+    md: "48em",
+    lg: "62em",
+    xl: "80em",
+  },
 });

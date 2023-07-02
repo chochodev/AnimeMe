@@ -1,0 +1,10 @@
+Backend for:
+
+Add anime post page
+Add a comment section to the above
+Add liking (dropping) feature
+Make everything responsive
+
+Frontend:
+
+Add status select options

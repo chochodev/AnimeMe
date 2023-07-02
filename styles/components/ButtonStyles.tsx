@@ -59,20 +59,31 @@ export const ButtonStyles = {
           outlineOffset: '0',
         },
       },
-      dark: {
-        bg: 'none',
-        color: 'primary',
-        rounded: 'sm',
-        _hover: {
-          bg: 'onSecondary',
-          color: 'secondary',
-        },
-        _active: {
-          outline: '2px solid #ffffff',
-          outlineOffset: '0',
-        },
+    },
+    warning: {
+      bg: 'none',
+      color: 'warning',
+      rounded: 'sm',
+      _hover: {
+        bg: 'warning',
+        color: 'secondary',
       },
-    }
+      _active: {
+        outlineOffset: '0',
+      },
+    },
+    danger: {
+      bg: 'none',
+      color: 'danger',
+      rounded: 'sm',
+      _hover: {
+        bg: 'danger',
+        color: 'secondary',
+      },
+      _active: {
+        outlineOffset: '0',
+      },
+    },
   },
   defaultProps: {
     variant: 'primary',

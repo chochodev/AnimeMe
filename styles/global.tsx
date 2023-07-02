@@ -17,7 +17,7 @@ export const styles: Styles = {
       fontFamily: 'Nunito,Archivo,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans"',
     },
     '*::selection': {
-      color: '#AAAAAA',
+      color: '#292929',
       bg: '#F8F8F8',
     },
     ul: {
