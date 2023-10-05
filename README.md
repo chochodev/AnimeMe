@@ -1,8 +1,3 @@
-## Needs improvement on optimization 
-- Suspending for now;
-  - Chakra UI boiler plate load time
-- Any suggestions?
-
 #### michochoprogrammer@gmail.com
 
 ## AnimeMe (Review-App)
