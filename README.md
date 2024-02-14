@@ -17,6 +17,7 @@ This a web app for anime lovers. This includes all functionalities of a normal r
 
 ## Set Up
 
+
 First, run the development server:
 
 ```bash
