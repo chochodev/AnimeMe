@@ -28,7 +28,7 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser.
+Open [http://localhost:3000](http://localhost:3000) with your browser to check the result.
 
 ## Needs improvement on optimization 
 - Suspending for now;
