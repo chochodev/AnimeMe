@@ -28,4 +28,5 @@ This a web app for anime lovers. This includes all functionalities of a normal r
 - Suspending for now;
   - Chakra UI boiler plate load time
 - Any suggestions?
-- Did a little research recently on ui libraries and stumbled upon mantime, I will be trying it out in place of chakra ui. I hope it works fine
+- Did a little research recently on ui libraries and stumbled upon mantime, I will be trying it out in place of chakra ui.
+I hope it works fine.
