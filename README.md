@@ -15,19 +15,14 @@ This a web app for anime lovers. This includes all functionalities of a normal r
   - My default backend framework which I'm most proficient in.
 
 ## Set Up
-
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to check the result.
+- After pulling or cloning;
+- Run:
+  ```npm install ``` or
+  ```yarn install ```
+- After installing dependacies and packages; run the app locally with:
+  ```npm run dev``` or
+  ```yarn run dev```
+- Check out [set-up](https://nextjs.org/learn-pages-router/basics/create-nextjs-app/setup) installation for more info.
 
 ## Needs improvement on optimization 
 - Suspending for now;
