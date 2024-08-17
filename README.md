@@ -33,3 +33,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to check t
 - Suspending for now;
   - Chakra UI boiler plate load time
 - Any suggestions?
+- Did a little research recently on ui libraries and stumbled upon mantime, I will be trying it out in place of chakra ui. I hope it works fine
