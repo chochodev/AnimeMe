@@ -1,4 +1,3 @@
-#### email: michochoprogrammer@gmail.com
 
 ## AnimeMe (Review-App)
 This a web app for anime lovers. This includes all functionalities of a normal reviewing website and chat system, ranking system, content creation system and more.
